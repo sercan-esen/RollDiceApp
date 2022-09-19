@@ -1,6 +1,7 @@
 # Dice App
+## Week1-HomeWork
 
-##  Namespace nedir?
+###  Namespace nedir?
 
 XML (Genişletilebilir İşaretleme Dili), HTML'e çok benzeyen, kendi kendini tanımlayan ve bilgileri depolamak ve taşımak için tasarlanmış,
 yazılım ve donanımdan bağımsız bir araçtır. XML'in temel özelliklerinden biri, öğe adlarının geliştirici tarafından atanması ve bunun
