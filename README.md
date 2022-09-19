@@ -1,5 +1,5 @@
 # Dice App
-## Week-1 - HomeWork
+## Week-1 HomeWork
 
 ###  Namespace nedir?
 
